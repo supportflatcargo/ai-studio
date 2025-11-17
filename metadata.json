@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Palette Quality Check",
+  "description": "Téléchargez une photo d'une palette en bois et notre IA déterminera son grade (A, B, C ou HS). Un outil rapide et précis pour le contrôle qualité.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
